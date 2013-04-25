@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-  <display-name>foodtracker_thienne</display-name>
+  <display-name>thesis</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
@@ -9,76 +9,6 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-  <servlet>
-    <description></description>
-    <display-name>HelloWorld</display-name>
-    <servlet-name>HelloWorld</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.HelloWorld</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>HelloWorld</servlet-name>
-    <url-pattern>/HelloWorld</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>MobileLoginServlet</display-name>
-    <servlet-name>MobileLoginServlet</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.MobileLoginServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>MobileLoginServlet</servlet-name>
-    <url-pattern>/MobileLoginServlet</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>MenuItems</display-name>
-    <servlet-name>MenuItems</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.MenuItems</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>MenuItems</servlet-name>
-    <url-pattern>/MenuItems</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>RestaurantNames</display-name>
-    <servlet-name>RestaurantNames</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.RestaurantNames</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>RestaurantNames</servlet-name>
-    <url-pattern>/RestaurantNames</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>FoodRecommendations</display-name>
-    <servlet-name>FoodRecommendations</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.FoodRecommendations</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>FoodRecommendations</servlet-name>
-    <url-pattern>/FoodRecommendations</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>ChangeFoodRecommendations</display-name>
-    <servlet-name>ChangeFoodRecommendations</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.ChangeFoodRecommendations</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>ChangeFoodRecommendations</servlet-name>
-    <url-pattern>/ChangeFoodRecommendations</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>RecommendationSubmitter</display-name>
-    <servlet-name>RecommendationSubmitter</servlet-name>
-    <servlet-class>edu.arizona.cs.mobilefoodtracker.RecommendationSubmitter</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>RecommendationSubmitter</servlet-name>
-    <url-pattern>/RecommendationSubmitter</url-pattern>
-  </servlet-mapping>
   <servlet>
     <description></description>
     <display-name>TrustServerA</display-name>
