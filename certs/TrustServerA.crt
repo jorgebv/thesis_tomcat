@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Arizona, L=Tucson, O=University of Arizona, OU=Computer Science, CN=Thesis CA/emailAddress=jbv@email.arizona.edu
+        Validity
+            Not Before: Mar  1 15:27:26 2013 GMT
+            Not After : Mar  1 15:27:26 2014 GMT
+        Subject: C=US, ST=AZ, L=Tucson, O=Tomcat Server, OU=Tomcat, CN=dmft.cs.arizona.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:cb:c2:11:f3:ba:69:a4:74:40:63:32:8e:e9:
+                    74:5a:89:f6:2d:4b:93:3c:2f:d9:ec:08:c1:39:bf:
+                    f9:75:82:9e:a5:08:ee:87:4b:1b:a1:70:e2:0f:09:
+                    51:96:c3:35:6e:a3:2f:e8:28:bf:09:72:41:7b:a4:
+                    2f:77:55:52:67:36:d6:68:d2:bf:89:e9:10:1e:d7:
+                    49:42:b7:f0:31:e9:d1:42:56:37:76:b3:75:e4:97:
+                    c2:ed:61:ff:0b:07:2d:ad:78:ad:ab:39:09:67:65:
+                    64:51:09:0b:e7:9a:50:b9:b7:8a:41:52:a2:96:b6:
+                    a3:f6:35:d2:9d:69:55:48:a4:dc:08:cd:a8:3c:44:
+                    bc:ac:08:17:c2:e1:be:54:47:a1:71:55:94:bb:ed:
+                    b9:67:a3:da:05:ec:d7:08:38:57:be:cc:cf:43:68:
+                    33:db:2c:03:32:8c:c5:30:92:60:29:e9:ce:45:ec:
+                    e4:53:e6:23:a6:4e:87:f7:17:9a:c1:62:a3:fb:3b:
+                    fa:fb:d1:d1:83:2c:0b:1e:27:40:f0:8b:97:d4:d5:
+                    49:86:5e:0d:fa:ff:0b:01:a2:25:6d:fe:9f:92:7a:
+                    d4:53:05:eb:e9:5b:7e:b3:65:e0:cf:c8:ae:4e:82:
+                    f9:0e:99:e9:b7:d8:be:0f:c1:78:47:87:59:ec:89:
+                    9b:7f
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         2e:6c:e2:30:6b:8d:f4:40:96:6a:31:63:95:93:d2:cc:07:32:
+         43:e3:f4:38:90:77:1b:d2:dd:a2:aa:0c:71:b1:8d:c5:7e:88:
+         8d:37:6e:e3:2c:33:93:34:1b:f1:25:1c:47:0d:0e:33:50:fa:
+         e7:a5:95:5d:5f:1c:5b:85:71:61:a3:64:94:43:75:c7:9c:9c:
+         5a:81:1d:bc:38:c3:f8:3e:89:45:e2:3c:37:da:76:ed:ad:0b:
+         ad:f2:cf:d0:5d:79:47:cf:f5:ee:ce:b6:5f:7d:29:f8:23:57:
+         fd:9b:c2:2e:98:f8:6c:dd:d5:c3:cd:d4:3a:fd:b9:64:fd:79:
+         8d:60
+-----BEGIN CERTIFICATE-----
+MIIDCzCCAnQCAQEwDQYJKoZIhvcNAQEFBQAwgaUxCzAJBgNVBAYTAlVTMRAwDgYD
+VQQIDAdBcml6b25hMQ8wDQYDVQQHDAZUdWNzb24xHjAcBgNVBAoMFVVuaXZlcnNp
+dHkgb2YgQXJpem9uYTEZMBcGA1UECwwQQ29tcHV0ZXIgU2NpZW5jZTESMBAGA1UE
+AwwJVGhlc2lzIENBMSQwIgYJKoZIhvcNAQkBFhVqYnZAZW1haWwuYXJpem9uYS5l
+ZHUwHhcNMTMwMzAxMTUyNzI2WhcNMTQwMzAxMTUyNzI2WjByMQswCQYDVQQGEwJV
+UzELMAkGA1UECAwCQVoxDzANBgNVBAcMBlR1Y3NvbjEWMBQGA1UECgwNVG9tY2F0
+IFNlcnZlcjEPMA0GA1UECwwGVG9tY2F0MRwwGgYDVQQDDBNkbWZ0LmNzLmFyaXpv
+bmEuZWR1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr8vCEfO6aaR0
+QGMyjul0Won2LUuTPC/Z7AjBOb/5dYKepQjuh0sboXDiDwlRlsM1bqMv6Ci/CXJB
+e6Qvd1VSZzbWaNK/iekQHtdJQrfwMenRQlY3drN15JfC7WH/CwctrXitqzkJZ2Vk
+UQkL55pQubeKQVKilraj9jXSnWlVSKTcCM2oPES8rAgXwuG+VEehcVWUu+25Z6Pa
+BezXCDhXvszPQ2gz2ywDMozFMJJgKenORezkU+Yjpk6H9xeawWKj+zv6+9HRgywL
+HidA8IuX1NVJhl4N+v8LAaIlbf6fknrUUwXr6Vt+s2Xgz8iuToL5Dpnpt9i+D8F4
+R4dZ7ImbfwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAC5s4jBrjfRAlmoxY5WT0swH
+MkPj9DiQdxvS3aKqDHGxjcV+iI03buMsM5M0G/ElHEcNDjNQ+uellV1fHFuFcWGj
+ZJRDdcecnFqBHbw4w/g+iUXiPDfadu2tC63yz9BdeUfP9e7Otl99KfgjV/2bwi6Y
++Gzd1cPN1Dr9uWT9eY1g
+-----END CERTIFICATE-----
